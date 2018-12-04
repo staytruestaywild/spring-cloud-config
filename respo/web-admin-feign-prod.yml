@@ -2,7 +2,7 @@ spring:
   application:
     name: spring-cloud-web-admin-feign
   thymeleaf:
-    cache: true
+    cache: false
     mode: LEGACYHTML5
     encoding: UTF-8
     servlet:
